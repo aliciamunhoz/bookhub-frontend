@@ -1,5 +1,4 @@
-# BookAPI Frontend
-
+# BookHub
 Aplicação frontend em React + TypeScript para gerenciar livros.
 
 ## Funcionalidades
@@ -21,7 +20,7 @@ Aplicação frontend em React + TypeScript para gerenciar livros.
 
 - Node.js 18+ (recomendado)
 - npm
-- Backend da Book API rodando em http://localhost:4000
+- Backend do BookHub rodando em http://localhost:4000
 
 ## Configuração
 
